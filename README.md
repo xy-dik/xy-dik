@@ -1,6 +1,6 @@
 ### Hi There! It's Good To See You! 👋
 
-## Hello! You can call me Dika
+## Hello! It's me, Dika!
 
 - 🔭 I’m currently studying at Information Engineering Bachelor Degree
 - 🌱 I’m currently learning UI/UX Design and Front-End Website
